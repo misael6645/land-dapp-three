@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.a314d441.chunk.css",
-    "main.js": "/static/js/main.f6218676.chunk.js",
-    "main.js.map": "/static/js/main.f6218676.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.96e163c3.js",
-    "runtime-main.js.map": "/static/js/runtime-main.96e163c3.js.map",
-    "static/js/2.35d069ed.chunk.js": "/static/js/2.35d069ed.chunk.js",
-    "static/js/2.35d069ed.chunk.js.map": "/static/js/2.35d069ed.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.a314d441.chunk.css.map": "/static/css/main.a314d441.chunk.css.map",
-    "static/js/2.35d069ed.chunk.js.LICENSE.txt": "/static/js/2.35d069ed.chunk.js.LICENSE.txt"
+    "main.css": "/land-dapp-three/static/css/main.a314d441.chunk.css",
+    "main.js": "/land-dapp-three/static/js/main.f6218676.chunk.js",
+    "main.js.map": "/land-dapp-three/static/js/main.f6218676.chunk.js.map",
+    "runtime-main.js": "/land-dapp-three/static/js/runtime-main.ff2b74bf.js",
+    "runtime-main.js.map": "/land-dapp-three/static/js/runtime-main.ff2b74bf.js.map",
+    "static/js/2.35d069ed.chunk.js": "/land-dapp-three/static/js/2.35d069ed.chunk.js",
+    "static/js/2.35d069ed.chunk.js.map": "/land-dapp-three/static/js/2.35d069ed.chunk.js.map",
+    "index.html": "/land-dapp-three/index.html",
+    "static/css/main.a314d441.chunk.css.map": "/land-dapp-three/static/css/main.a314d441.chunk.css.map",
+    "static/js/2.35d069ed.chunk.js.LICENSE.txt": "/land-dapp-three/static/js/2.35d069ed.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.96e163c3.js",
+    "static/js/runtime-main.ff2b74bf.js",
     "static/js/2.35d069ed.chunk.js",
     "static/css/main.a314d441.chunk.css",
     "static/js/main.f6218676.chunk.js"
